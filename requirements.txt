@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pillow
+graphviz
+python-graphviz
+sympy
+matplotlib
+duckduckgo_search
